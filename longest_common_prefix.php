@@ -1,6 +1,6 @@
 <?php
 $strs=["flower","flow","flight"];
-var_dump(longest_common_subsequence($strs));
+//var_dump(longest_common_subsequence($strs));
 function longest_common_subsequence($strs)
 {
       $longest_common_subsequence="";
